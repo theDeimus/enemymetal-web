@@ -64,7 +64,7 @@ p{
   .header-left {
     float: left;
   }
-  
+
   .vid-container {
     max-width: 1920px;
     width: 60%;
@@ -85,7 +85,7 @@ p{
     left: 0;
   } 
   /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 1081px) {
     .header a {
       float: none;
       display: block;
